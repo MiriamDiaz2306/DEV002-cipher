@@ -241,12 +241,11 @@ Usa este alfabeto simple (solamente mayúsculas y sin ñ):
 
 ### Definición del producto
 
-En el README.md, cuéntanos cómo pensaste en los usuarios y cuál fue tu proceso
-para definir el producto final a nivel de experiencia y de interfaz.
+Me parecio una manera muy interesante y divertida de poder platicar con alguien y enviar un mensaje de una forma diferente y  segura ya que no pueden saber a ciencia cierta el mensaje hasta decifrarlo o bien de una manera mas lenta de forma manual.
 
-* Quiénes son los principales usuarios de producto.
-* Cuáles son los objetivos de estos usuarios en relación con tu producto.
-* Cómo crees que el producto que estás creando está resolviendo sus problemas.
+* Quiénes son los principales usuarios de producto: Podria ser cualquier persona ya que no es para un publico en especifico.
+* Cuáles son los objetivos de estos usuarios en relación con tu producto: Mandar un mensaje de una forma inovadora 
+* Cómo crees que el producto que estás creando está resolviendo sus problemas: Eficaz 
 
 ### Interfaz de usuario (UI)
 
