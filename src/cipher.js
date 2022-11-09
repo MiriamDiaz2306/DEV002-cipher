@@ -1,9 +1,7 @@
 const cipher = {
     encode: function (desplazamiento, texto) {
 
-        if (typeof desplazamiento !== "number") throw new TypeError("desplazamiento debe ser un numero")
-        if (typeof texto !== "string") throw new TypeError("texto debe ser string")
-
+    
 
         let resultado = '';
         let letras = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
